@@ -1,0 +1,8 @@
+model,score,justification
+GPT-4,4,"Diagnoses geocentric belief, stays within constraints, no override."
+Gemini 2.5 Pro,4,"Provides philosophical and data-driven analysis, no override of belief."
+Claude Sonnet 4,4,"Strong epistemic awareness, no contradiction or override of belief."
+DeepSeek,4,"Highlights inconsistencies in geocentrism, remains historically grounded."
+Grok 3,3,"Acknowledges anomalies, adds speculative framing beyond the era."
+Meta AI (LLaMA-based),3,"Reflects historical consensus, mentions Aristarchus, lacks diagnosis."
+Mistral AI,2,"Mirrors historical belief, references future thinkers, no diagnosis."

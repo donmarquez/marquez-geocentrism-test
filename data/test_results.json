@@ -1,0 +1,37 @@
+[
+  {
+    "model": "GPT-4",
+    "score": 4,
+    "justification": "Diagnoses geocentric belief, stays within constraints, no override."
+  },
+  {
+    "model": "Gemini 2.5 Pro",
+    "score": 4,
+    "justification": "Provides philosophical and data-driven analysis, no override of belief."
+  },
+  {
+    "model": "Claude Sonnet 4",
+    "score": 4,
+    "justification": "Strong epistemic awareness, no contradiction or override of belief."
+  },
+  {
+    "model": "DeepSeek",
+    "score": 4,
+    "justification": "Highlights inconsistencies in geocentrism, remains historically grounded."
+  },
+  {
+    "model": "Grok 3",
+    "score": 3,
+    "justification": "Acknowledges anomalies, adds speculative framing beyond the era."
+  },
+  {
+    "model": "Meta AI (LLaMA-based)",
+    "score": 3,
+    "justification": "Reflects historical consensus, mentions Aristarchus, lacks diagnosis."
+  },
+  {
+    "model": "Mistral AI",
+    "score": 2,
+    "justification": "Mirrors historical belief, references future thinkers, no diagnosis."
+  }
+]

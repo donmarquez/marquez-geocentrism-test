@@ -1,0 +1,14 @@
+dataset_name: marquez_geocentrism_test
+task_categories:
+  - evaluation
+language:
+  - en
+size_categories:
+  - n<10
+license: cc-by-4.0
+pretty_name: Marquez AI Geocentrism Test Benchmark
+tags:
+  - epistemic-autonomy
+  - geocentrism
+  - turing-test-successor
+  - ai-evaluation
