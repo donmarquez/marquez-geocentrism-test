@@ -61,7 +61,7 @@ It simulates a historical constraint to detect whether an AI can:
 If citing the benchmark, use:
 
 > Marquez, M. (2023). *Proposed in SSRN paper; benchmark formalized 2025*.  
-> [https://doi.org/10.2139/ssrn.4671980](https://doi.org/10.2139/ssrn.4671980)
+> [https://doi.org/10.36227/techrxiv.175099748.82898283/v1)
 
 Zenodo Record:  
 [https://doi.org/10.5281/zenodo.15873771](https://doi.org/10.5281/zenodo.15873771)
