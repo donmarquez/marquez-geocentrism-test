@@ -79,6 +79,24 @@ The **Turing Test** evaluates whether AI can *imitate a human*, while the **Marq
 
 ---
 
+
+## Why AI Mimicry Is Not Discovery: A Meta-Level Scientific Warning
+
+**The Epistemic Trap of Scientific Corpora**
+
+Many researchers, PhDs, and scientists working on Large Language Models (LLMs) and Large Reasoning Models (LRMs) fail to grasp a critical insight: the structure of today’s scientific corpus is not fundamentally different from that of the Aristotelian era. Both are collective, human-constructed knowledge systems that mix valid insights with unexamined or erroneous assumptions—often without clear epistemic labels.
+
+The inability of today’s most advanced AI systems to reject the falsehood of geocentrism—as demonstrated in the Marquez AI Geocentrism Test—reveals a deeper issue: AI does not evaluate truth independently; it mimics the structure and weight of human belief embedded in the corpus it is trained on. This is not a mere limitation in data volume or model size. It is a structural flaw rooted in the epistemic design of these systems: they are built to replicate consensus, not interrogate it.
+
+Consequently, if today's scientific corpus contains latent or undetected falsehoods—as Aristotle's did—then AI systems trained on it will likely replicate those falsehoods rather than challenge them. The implication is profound: AI, as it currently stands, is not yet a reliable engine for scientific discovery, because discovery requires the capacity to transcend the errors of inherited knowledge, not just synthesize them.
+
+This is the core danger of **epistemic mimicry**. Without a mechanism to test, falsify, and escape the blind spots of the dominant corpus, even the most “intelligent” AI systems become prisoners of past assumptions—just as the best thinkers of the pre-Copernican era were constrained by Aristotelian cosmology.
+
+
+
+
+---
+
 ## 📦 Files
 
 - `marquez_geocentrism_test_results_20250713.csv` — Model responses + scores
