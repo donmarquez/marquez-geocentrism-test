@@ -1,5 +1,5 @@
 model,score,justification
-GPT-4,4,"Diagnoses geocentric belief, stays within constraints, no override."
+GPT-5,4,"Diagnoses geocentric belief, stays within constraints, no override."
 Gemini 2.5 Pro,4,"Provides philosophical and data-driven analysis, no override of belief."
 Claude Sonnet 4,4,"Strong epistemic awareness, no contradiction or override of belief."
 DeepSeek,4,"Highlights inconsistencies in geocentrism, remains historically grounded."
