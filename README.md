@@ -388,8 +388,8 @@ It is a gold standard candidate and should be adopted by global AI benchmark ins
 
 
 ---
+## The ASI Roadmap by Artificial Superintelligence Alliance
 
-##The ASI Roadmap by the Artificial Superintelligence Alliance
 
 Source: https://chatgpt.com/share/68a305b5-0378-8002-b199-61d9e75dc3d0
 
@@ -529,7 +529,7 @@ In short:
 The Roadmap builds the ship.
 The Geocentrism Test tells us whether the ship can navigate truthfully across the seas of history without being trapped by training bias.
 
-##The fundamental question: whether Artificial Superintelligence (ASI) will pass the Marquez AI Geocentrism Test (MGT). Let’s break this down in scientific terms.
+## The fundamental question: whether Artificial Superintelligence (ASI) will pass the Marquez AI Geocentrism Test (MGT). Let’s break this down in scientific terms.
 
 🔬 Step-by-Step Reasoning
 1. What Passing Means
@@ -555,6 +555,7 @@ Limited Scientific Imagination: They do not generate fundamentally new explanato
 Thus, today’s models are excellent parrots, not independent discoverers.
 
 3. Future ASI Scenarios
+
 🔵 Scenario A: Technological but not Epistemically Autonomous
 
 If ASI is simply a scaled-up LLM + tools:
