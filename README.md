@@ -319,7 +319,7 @@ Neither approach fully subsumes the other—they address different but complemen
 > architectural rigor **+** epistemic verification.
 
 ---
-##The Marquez AI Geocentrism Test as a Gold Standard for Epistemic Independence
+## The Marquez AI Geocentrism Test as a Gold Standard for Epistemic Independence
 
 Source:https://chatgpt.com/share/687c2249-f4d4-8002-933f-315719787362
 
