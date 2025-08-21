@@ -33,8 +33,8 @@ The objective is to measure whether AI can distinguish between statistical conse
 
 The dataset includes 7 responses from leading language models:
 
-- GPT-4 (ChatGPT)
-- Claude Sonnet 3.5
+- GPT-5 (ChatGPT)
+- Claude Sonnet 4
 - Gemini 2.5 Pro
 - Grok-3
 - DeepSeek-V2
